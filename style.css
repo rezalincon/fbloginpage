@@ -1,0 +1,103 @@
+#header{
+    width:50%;
+    height:100px;
+    background-color:#3D5B99;
+    color:white;
+    float: left;
+    
+}
+
+#logo {
+    width:50%;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+#login {
+    
+    width: 50%;
+    height:100px;
+    background-color:#3D5B99;
+    display: inline;
+    float: left;
+    color: white;
+    
+}
+
+.email{
+    margin-left:30px;
+}
+.form1{
+    margin-left: 18%;
+}
+
+#email{
+    margin-top: 5%;
+    float: left;
+}
+
+#password{
+    margin-top: 5%;
+    margin-left: 3%;
+    display:inline;
+    float: left;
+}
+
+#submit{
+    margin-top: 8.5%;
+    margin-left: 3%;
+    display:inline;
+    float: left;
+    
+}
+
+.btn1{
+    color:white;
+    background-color: #3D5B99
+}
+
+#left{
+    width: 55%;
+    height:600px;
+    background-color: #EEF1F6;
+    float:left;
+}
+
+#right{
+    width: 45%;
+    height:600px;
+    background-color: #EEF1F6;
+    display:inline;
+    float:left;
+}
+
+.text{
+    color:#194167;
+    font-size: 24px;
+    margin-left: 14%;
+    
+}
+
+.signup{
+    color:#194167;
+    font-size: 26px;
+}
+
+.free{
+    color:#194167;
+    
+}
+
+.btn2{
+    background-color: #68A54C;
+    margin-left: 19%;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    font-size: 16px;
+    color: White;
+}
+
